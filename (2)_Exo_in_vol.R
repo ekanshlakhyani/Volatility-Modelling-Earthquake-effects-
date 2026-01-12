@@ -11,7 +11,7 @@ quakefile <- readr::read_csv(
     earthquake_dummy = readr::col_integer()
   )
 )
-# Assuming your existing data is stored in a data frame named quakefile
+# existing data is stored in a data frame named quakefile
 quakefile$earthquake_5day_dummy <- 0
 
 # Find the row indices where the earthquake occurred
