@@ -1,4 +1,5 @@
 **Read Me**
+
 **Do Earthquakes Affect Stock Market Volatility? A GARCH-based Approach**
 Research Project
 - Built and estimated a series of GARCH-family models (GARCH, EGARCH, GJR-GARCH) to investigate whether U.S. earthquakes influence S&P 500 volatility.
